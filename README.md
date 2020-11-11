@@ -11,5 +11,6 @@ demo : https://kind-fermi-d826c5.netlify.app/
 npm install
 npm start
 npm run build
+```
 
 ![step-app](./step-app.png)
